@@ -1,0 +1,83 @@
+
+.homepage{
+   /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp88i-RI8EAAliLBaL6Bq2USRBFVz_KetvRA&s'); */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+ overflow: scroll;
+ margin-top: 50px;
+  align-items: center;
+}
+
+.main11{
+    width: 90%;
+    height: auto;
+    margin: 20px 5% 0px 5%;
+    display: flex;
+    overflow: hidden;
+    
+    
+}
+.main1{
+    width: 50%;
+}
+   
+.img{
+    width:80%;
+    margin: 5%;
+    border-radius: 10%;
+    box-shadow: 0px 0px 5px 5px rgb(226, 61, 61);
+}
+.main2{
+    width: 40%;
+    margin-left: 20px;
+}
+
+.img2{
+     width:45%;
+    margin: 2.5%;
+    height: 40%;
+    border-radius: 10%;
+    box-shadow: 0px 0px 5px 5px rgb(226, 61, 61);
+}
+.hr{
+    width: 90%;
+    border: none;
+    border-bottom:10px double black ;
+    margin: 0px 5% 0px 5%;
+}
+    
+.scroll{
+    width: 80%;
+    /* background-color: rgb(183, 231, 231); */
+    margin: 50px 10% 0% 10%;
+   
+    display: flex;
+    overflow: scroll;
+    scrollbar-width: none;
+    border-radius: 30%;
+}
+.dona1{
+    width:200x;
+    margin: 20px;
+    
+}
+.dona{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+
+   
+}
+.radheinfor{
+    width: 90%;
+    margin: 1% 5% 0% 5%;
+    height: auto;
+    /* background-color: red; */
+    font-size: 20px;
+    
+}
+.li{
+    color: rgb(55, 6, 100);
+}
+

@@ -1,0 +1,24 @@
+.image{
+    width: 70px;
+    height: 50px;
+}
+.link{
+    margin: 5px 0px 5px 20px;
+    text-align: justify;
+   font-size: 20px;
+   font-weight: bold;
+   color: black;
+   text-decoration: none;
+   &:hover{
+    color: rgb(44, 16, 138);
+   }
+}
+.navebar{
+    background-color: rgb(120, 218, 161);
+    height: 50px;
+    display: flex;
+    overflow: hidden;
+    width:100%;
+    position: fixed;
+    top: 0%;
+}
