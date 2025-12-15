@@ -14,7 +14,7 @@ export default function Nav() {
             alt="Image from URL" className={style.image}/>
             </Link>
             </div>
-        <Link to='/' className={style.link}>Home</Link>
+        <Link to='/Radhesham-pattal' className={style.link}>Home</Link>
          <Link to='/About' className={style.link}>About</Link>
           <Link to='/contect' className={style.link}>Contect</Link>
    </div>
