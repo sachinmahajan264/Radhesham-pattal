@@ -1,7 +1,7 @@
 import { Routes,Route } from 'react-router-dom';
 import About from './About';
 import Home from './Home';
-import Contect from './Contect';
+import Contact from './Contact';
 import { useNavigate } from 'react-router-dom';
 import Nav from './Nav'
 import Arun from './Arun';
@@ -15,12 +15,12 @@ export default function Pattal(props){
   
     return (
       <div>
-      <Nav/>
+      <Nav logout={props.logout}/>
         <Routes>
           <Route path='/arun' element={<Arun/>}/>
             <Route path='/Radhesham-pattal' element={<Home  openwith={openwith}/>}/>
             <Route path='/About' element={<About/>}/>
-            <Route path='/contect' element={<Contect/>}/>
+            <Route path='/contact' element={<Contact/>}/>
         </Routes>
       </div>
     )

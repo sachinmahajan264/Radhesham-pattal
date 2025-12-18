@@ -4,7 +4,7 @@ import { getDatabase, ref, set } from 'firebase/database';
 import './Contect.css';
 import Arun from './pattal/arun paper .jpg';
 
-export default function Contect() {
+export default function Contact() {
   const [data, setData] = useState({
     name: '',
     lastname: '',
