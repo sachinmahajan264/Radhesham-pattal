@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { app, analytics } from '../Firebase';
+import { app } from '../Firebase';
 import { getDatabase, ref, set } from 'firebase/database';
 import './Contect.css';
 import Arun from './pattal/arun paper .jpg';
