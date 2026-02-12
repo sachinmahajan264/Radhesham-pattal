@@ -46,7 +46,7 @@ class Web extends Component{
       console.log('login successful', hellow);
       alert("login successful");
       localStorage.setItem("token",JSON.stringify(hellow.data.access_token));
-      this.setState({Islogin : true})
+       this.setState({Islogin : true})
   }
     catch(error){
 console.log('login failed:',error);
@@ -81,7 +81,7 @@ alert('wrong email or password')
   render(){
   return(
     <div>
-    { this.state.Islogin ? <Pattal logout={this.onclicklogout} />  :   <Login onclick={this.onclickelog}/>}
+    { this.state.Islogin ? <Pattal logout={this.onclicklogout}/>:<Login onclick={this.onclickelog}/>}
     </div> 
   );
   }
