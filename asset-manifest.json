@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Radhesham-pattal/static/css/main.0c20b897.css",
-    "main.js": "/Radhesham-pattal/static/js/main.5ae7b399.js",
+    "main.css": "/Radhesham-pattal/static/css/main.f1a5fcca.css",
+    "main.js": "/Radhesham-pattal/static/js/main.154ebe90.js",
     "static/js/453.ea0f4567.chunk.js": "/Radhesham-pattal/static/js/453.ea0f4567.chunk.js",
     "static/media/pattal9.jpg": "/Radhesham-pattal/static/media/pattal9.798d86a0067a574c2e6a.jpg",
     "static/media/pattal8.jpg": "/Radhesham-pattal/static/media/pattal8.e1cb84beac6a979680e4.jpg",
@@ -38,12 +38,12 @@
     "static/media/done1.jpg": "/Radhesham-pattal/static/media/done1.2b045558c7524aa1559d.jpg",
     "static/media/paper3.jpg": "/Radhesham-pattal/static/media/paper3.a535b41862724a39fecc.jpg",
     "index.html": "/Radhesham-pattal/index.html",
-    "main.0c20b897.css.map": "/Radhesham-pattal/static/css/main.0c20b897.css.map",
-    "main.5ae7b399.js.map": "/Radhesham-pattal/static/js/main.5ae7b399.js.map",
+    "main.f1a5fcca.css.map": "/Radhesham-pattal/static/css/main.f1a5fcca.css.map",
+    "main.154ebe90.js.map": "/Radhesham-pattal/static/js/main.154ebe90.js.map",
     "453.ea0f4567.chunk.js.map": "/Radhesham-pattal/static/js/453.ea0f4567.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c20b897.css",
-    "static/js/main.5ae7b399.js"
+    "static/css/main.f1a5fcca.css",
+    "static/js/main.154ebe90.js"
   ]
 }
